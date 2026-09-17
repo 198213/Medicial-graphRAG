@@ -1,0 +1,9 @@
+neo4j==5.20.0
+openai==1.40.0
+transformers==4.40.0
+torch==2.2.0
+pandas==2.2.2
+streamlit==1.37.1
+python-dotenv==1.0.1
+scikit-learn==1.5.1
+numpy==1.26.4

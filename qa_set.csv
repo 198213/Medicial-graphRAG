@@ -1,0 +1,16 @@
+id,question,intent,gold_entities
+1,糖尿病有什么症状,disease_symptom,多饮|多尿|多食|消瘦
+2,高血压有什么症状,disease_symptom,头痛|头晕|心悸
+3,糖尿病推荐用什么药,drug_for_disease,二甲双胍|格列本脲|胰岛素
+4,高血压吃什么药,drug_for_disease,硝苯地平|卡托普利
+5,糖尿病推荐吃什么,disease_food,紫菜|糙米|木耳
+6,高血压推荐吃什么,disease_food,芹菜|山楂
+7,冠心病有什么症状,disease_symptom,胸痛|胸闷|心悸
+8,冠心病推荐用什么药,drug_for_disease,丹参|速效救心
+9,胃炎有什么症状,disease_symptom,腹痛|腹胀|恶心
+10,胃炎推荐吃什么,disease_food,清淡|粥|面
+11,贫血有什么症状,disease_symptom,乏力|头晕|面色苍白
+12,贫血推荐吃什么,disease_food,红枣|猪肝|菠菜
+13,哮喘有什么症状,disease_symptom,呼吸困难|喘息|咳嗽
+14,哮喘推荐用什么药,drug_for_disease,氨茶碱|沙丁胺醇
+15,高血脂推荐吃什么,disease_food,燕麦|山楂|洋葱
